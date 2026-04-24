@@ -1,3 +1,4 @@
+# 🎓 AI-Powered Online Student Guidance and Training Platform
 The **AI-Powered Online Student Guidance and Training Platform** is an intelligent web-based system designed to assist students in making informed academic and career decisions. By leveraging **Machine Learning (Support Vector Machine)** and **Natural Language Processing (NLP)** techniques, the platform provides personalized career recommendations, adaptive learning experiences, and performance insights.
 
 The system acts as a **virtual career advisor**, guiding students toward suitable roles based on their academic performance, technical skills, and aptitude.
